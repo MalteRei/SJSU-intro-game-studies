@@ -4,7 +4,7 @@ layout: default
 # Internet Arcade
 In this article we will play [Ms. Pac-Man through an emulator in the browser](https://archive.org/details/arcade_20pacgal).
 
-![Screenshot Ms. Pac-Man emulator.](./images/ms-pac-man.png)
+![Screenshot Ms. Pac-Man emulator.](./ms-pac-man.png)
 
 
 ## First Ms. Pac-Man Experience 
