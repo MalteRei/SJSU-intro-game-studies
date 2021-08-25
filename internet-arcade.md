@@ -10,6 +10,8 @@ In this article we will play [Ms. Pac-Man through an emulator in the browser](ht
 ## First Ms. Pac-Man Experience 
 Strap into the internet time machine to play Ms. Pac-Man 20th Anniversary edition. After ‘inserting’ 12 coins into the arcade by pressing the ‘6’ key on the keyboard and selecting player 1, the game begins. Pressing the arrow keys turns Ms. Pac-Man into one of four directions. With Ms. Pac-Man are ghosts in the maze that hunt her. The goal for the player is to make Ms. Pac-Man collect all coins in the maze. After some levels it becomes apparent that the ghosts do not turn blue randomly. Instead, they turn blue when Ms. Pac-Man eats a large coin. A couple rounds later through accidently running into a ghost that is blue, shows that this resets the ghost to the starting position. Running into a ghost when it is not blue, makes the ghost eat Ms. Pac-Man. As a first time Pac-Man player this happens often. As a result, the three lives Ms. Pac-Man has, vanish quickly. However, when all lives are used up spending a coin allows the player to keep playing after losing all three lives. As a result, the 12 coins ‘inserted’ in the beginning are used up with a high score of 21000 after the second act of the story. In the first act Ms. Pac-Man meets Pac-Man. In the cut scene for the second act Ms. Pac-Man runs after Mac-Man. To find out how the story continues you would need to play yourself.
 
+![Gif Ms. Pac-Man gameplay.](./ms-pac-man-gif.gif)
+
 ## Emulator vs. Arcade
 With the walkthrough of the experience playing on an emulator in mind, how would it differ to playing on an arcade cabinet? Let’s discuss three aspects: how the input differs, how expectations evolved and the social aspect of an arcade.
 
